@@ -1,0 +1,8 @@
+table{
+    width: 100%;
+    text-align: left;
+    background-color: white;
+    /* border: solid; */
+    border: solid 1px;
+    margin-top: 10px;
+}
